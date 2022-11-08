@@ -7,7 +7,7 @@
     "dev": "concurrently \"webpack\" \"npx http-server ./dist\"",
     "build": "webpack --env.prod=true"
   },
-  "author": "CYCL a LiveTiles Company",
+  "author": "LiveTiles",
   "license": "ISC",
   "dependencies": {
     "@livetiles/livetiles-intranet-hub": "0.0.1",
